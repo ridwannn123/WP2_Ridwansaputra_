@@ -1,14 +1,19 @@
 # WP2_Ridwansaputra_
-Penambahan Contoh1 Pertemuan 2, Latihan1 Pertemuan 3 Menggunakan Controller,View,Model,
+Penambahan 
 
-Menambahkan File .htaccess Untuk Menghilangkan index.php
+
+HASIL OUTPUT :
+
+Output-Dari-Contoh5-Form-Input-Data-Mata-Kuliah.png
+
+Output-Dari-HalamanAbout-RentakBuku.png
+
+Output-Dari-HalamanDepan-RentalBuku.png
 
 File Yang Ditambahkan Sebagai Berikut :
 
-.htaccess
+pustaka-booking/Application/Controller = Matakuliah.php, Web.php
 
-Controller = Latihan1.php,Contoh1.php
+pustaka-booking/Application/Views = matakuliah.php, v_about.php, v_footer.php, v_header.php, v_index.php, view-form-matakuliah.php
 
-Model      = Model_latihan1.php
-
-View       = view-latihan1.php
+pustaka-booking/assets/css = stylebuku.css
