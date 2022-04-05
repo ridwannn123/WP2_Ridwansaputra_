@@ -16,4 +16,4 @@ pustaka-booking/Application/Controller = penambahan codingan di Matakuliah.php y
 
 pustaka-booking/Application/Views = penambahan codingan di view-form-matakuliah.php yaitu codingan form_error
 
-pustaka-booking/config/ = penambahan config autoloa
+pustaka-booking/config/ = penambahan config autoload
