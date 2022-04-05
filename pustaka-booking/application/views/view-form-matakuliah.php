@@ -8,8 +8,8 @@
 </head>
 <body>
     <center>
-        <form action="<?= ('Matakuliah/cetak'); ?>"
-method="post">
+        <?php //echo validation_errors(); ?>
+        <form action="<?= ('matakuliah/cetak'); ?>"method="post">
             <table>
                 <tr>
                     <th colspan="3">
@@ -26,6 +26,7 @@ method="post">
                     <th>:</th>
                     <td>
                         <input type="text" name="kode" id="kode">
+                        <?= form_error('kode', '<small style="color:blue">', '</small>'); ?>
                     </td>
                 </tr>
                 <tr>
@@ -33,6 +34,7 @@ method="post">
                     <td>:</td>
                     <td>
                         <input type="text" name="nama" id="nama">
+                        <?= form_error('nama', '<small style="color:blue">', '</small>'); ?>
                     </td>
                 </tr>
                 <tr>
