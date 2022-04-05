@@ -4,16 +4,16 @@ Penambahan
 
 HASIL OUTPUT :
 
-Output-Dari-Contoh5-Form-Input-Data-Mata-Kuliah.png
+Output-Dari-Error_Validation-Kode-Dan-Matakuliah.png
 
-Output-Dari-HalamanAbout-RentakBuku.png
+Output-Dari-Error_Validation-Kode-Mata_kuliah.png
 
-Output-Dari-HalamanDepan-RentalBuku.png
+Output-Dari-Error_Validation-Nama-Mata_kuliah.png
 
 File Yang Ditambahkan Sebagai Berikut :
 
-pustaka-booking/Application/Controller = Matakuliah.php, Web.php
+pustaka-booking/Application/Controller = penambahan codingan di Matakuliah.php yaitu codingan form_validation
 
-pustaka-booking/Application/Views = matakuliah.php, v_about.php, v_footer.php, v_header.php, v_index.php, view-form-matakuliah.php
+pustaka-booking/Application/Views = penambahan codingan di view-form-matakuliah.php yaitu codingan form_error
 
-pustaka-booking/assets/css = stylebuku.css
+pustaka-booking/config/ = penambahan config autoloa
