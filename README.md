@@ -1,15 +1,17 @@
 # WP2_Ridwansaputra_
  
-Penambahan Database Baru dengan nama "pustaka"
+HASIL OUTPUT :
 
-Dengan berisikan tabel:
-1. Tabel User
-2. Tabel Role
-3. Tabel Kategori
-4. Tabel Buku
+Output-Isi-Pustaka-Buku.png
 
-Beserta Screenshot nya
+Output-Isi-Pustaka-Role.png
 
-Penambahan File :
-1. ModelUser.php
-2. ModelBuku.php
+Output-Isi-Pustaka-User.png
+
+Output-Isi-Pustaka-Kategori.png
+
+File Yang Ditambahkan Sebagai Berikut :
+
+pustaka-booking/Application/config = autoload.php, database.php
+
+pustaka-booking/Application/Models = ModelUser.php, ModelBuku.php
