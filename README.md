@@ -6,6 +6,7 @@ Dengan berisikan tabel:
 2. Tabel Role
 3. Tabel Kategori
 4. Tabel Buku
+Beserta Screenshot nya
 
 Penambahan File :
 1. ModelUser.php
